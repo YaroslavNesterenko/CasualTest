@@ -1,0 +1,5 @@
+D:\Aleksey\WorksProjects\AbstractFabric\AbstractFabric\bin\Debug\AbstractFabric.exe
+D:\Aleksey\WorksProjects\AbstractFabric\AbstractFabric\bin\Debug\AbstractFabric.pdb
+D:\Aleksey\WorksProjects\AbstractFabric\AbstractFabric\obj\Debug\AbstractFabric.csprojAssemblyReference.cache
+D:\Aleksey\WorksProjects\AbstractFabric\AbstractFabric\obj\Debug\AbstractFabric.exe
+D:\Aleksey\WorksProjects\AbstractFabric\AbstractFabric\obj\Debug\AbstractFabric.pdb
